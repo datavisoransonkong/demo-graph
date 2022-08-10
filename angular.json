@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "demo-graph"
+  "defaultProject": "demo-graph",
+  "cli": {
+    "analytics": "a14a30a5-9c5a-4ae5-8be2-fac4f02e0c80"
+  }
 }
